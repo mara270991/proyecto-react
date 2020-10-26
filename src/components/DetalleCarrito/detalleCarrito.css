@@ -1,0 +1,28 @@
+.tituloPrincipal{
+font-size: 28px;
+ color: Gray;
+ text-align: center;
+ font-weight: 600;
+}
+
+
+.inCart{
+  text-align: center;
+  color: gray;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.totalPrice{
+  text-align: center;
+  color: #ffcb84;
+  font-weight: 600;
+}
+
+
+.subtotalPrice{
+  color: gray;
+  font-weight: 600;
+  font-size: 15px;
+}

@@ -1,0 +1,31 @@
+.navtop{
+  background-color: #ffcb84;
+}
+
+.navbottom{
+  background-color: black;
+}
+
+.buttonav{
+  color: white !important;
+  background-color: #ffcb84 !important;
+}
+
+
+.itemnav{
+  color: white !important;
+}
+
+.icono{
+  padding-left: 20px;
+}
+.tituloNav{
+  color: white;
+  margin: 0;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+*{
+  font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,10 @@
+
+
+
+.inCart{
+  text-align: center;
+  color: gray;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}

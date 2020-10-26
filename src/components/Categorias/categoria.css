@@ -1,0 +1,25 @@
+ul, li{
+  list-style-type: none;
+
+}
+
+
+.codigoList{
+  font-size: 35px;
+  color: #ffcb84;
+  font-weight: 600;
+}
+.tituloPrincipalCategorias{
+font-size: 35px;
+ color: gray;
+ text-align: center;
+}
+
+.imgCard{
+  border-radius: 8px;
+  box-shadow: 10px 10px 5px -7px rgba(176,176,176);
+}
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}

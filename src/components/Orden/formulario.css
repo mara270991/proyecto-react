@@ -1,0 +1,32 @@
+.formulario{
+  width: 50%;
+  margin: auto;
+}
+
+.botonOrden{
+  margin: auto;
+  justify-content: center !important;
+  display: flex !important;
+  width: 30% !important;
+  background: black !important;
+border: 1px solid !important;
+
+}
+
+.tituloOrden{
+  font-size: 30px;
+  font-weight: 600;
+  color: #00bd00;
+  text-align: center;
+}
+
+.gracias{
+  font-size: 30px;
+  font-weight: 600;
+  color: #00bd00;
+  text-align: center;
+}
+
+.orden{
+  text-align: center;
+}
